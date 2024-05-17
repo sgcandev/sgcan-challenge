@@ -24,11 +24,11 @@ Rutas:
 Requerimientos:
 
 - Diseñar una interfaz lo mas parecida posible a la de la imagenes.
-- Buscar un texto dentro de las transcripciones del video.
+- Buscar un texto dentro de las sentencias de la transcripción.
 - Al hacer click en una sentencia el reproductor debe ir al minuto del video.
 
 Opcional:
-- A medida que video va avanzando resaltar el texto que se esta escuchando.
+- A medida que video va avanzando resaltar el texto(sentencia) que se esta escuchando.
 
 ### Entregable
 
