@@ -4,6 +4,7 @@
 
 * Versión de Python 3.10 o superior
 * Git
+* La base de datos SQLite esta incluida en el proyecto en la sig ruta: ```backend-django/db.sqlite3```
 
 ## Instalación
 
@@ -32,7 +33,7 @@ Quit the server with CONTROL-C.
 
 ## Endpoints
 
-NOTA: Los endpoints son dinamicos, se esta utilizando la libreria [Django Dynamic Rest](https://github.com/AltSchool/dynamic-rest). Aquí solo dejamos algunos ejemplos.
+**NOTA**: Los endpoints son dinamicos, se esta utilizando la libreria [Django Dynamic Rest](https://github.com/AltSchool/dynamic-rest). Aquí solo dejamos algunos ejemplos.
 
 ### /api/transcripts
 
